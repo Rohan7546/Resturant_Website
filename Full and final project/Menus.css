@@ -1,0 +1,75 @@
+body {
+			background-color:#FCF3CF;
+			color: blue;
+			font-family: sans-serif,Arial;
+		}
+		.Popular{
+			font-size: 20px;
+			float: left;
+			line-height: 50px;
+			
+			padding-right: 50px;
+			
+		}
+		.para2nd{
+			 font-size: 20px;
+			float:right;
+			padding-left: 30px;
+			border-left: 10px solid black;
+			 
+			 line-height: 60px;
+		}
+		strong{
+			float: right;
+		}
+		.para3rd{
+			font-size: 20px;
+			float: left;
+			line-height: 60px;
+			
+			padding-right: 50px;
+		}
+		.para4th{
+			font-size: 20px;
+			float: right;
+			float: left;
+			 line-height: 60px;
+
+		}
+		 .navigation {
+     	position: static;
+     	bottom: 10px;
+     	 background-color: white;
+     	 color: black;
+     	 padding-top: 20px;
+     	height: 50px;
+     	word-spacing: 202px;
+     	font-size:20px;
+     	font-weight: 30px;
+     	margin-top: -10px;
+     	 
+     	padding-left: 15px;
+     	 
+
+     }
+     a { text-decoration: none;
+     color: black; }
+     dt{
+     	color: green;
+     }
+     .image{
+     	 background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://thumbs.dreamstime.com/b/indian-rajasthani-thali-plate-tasty-north-jaipur-rajasthan-111728067.jpg);
+     	width:500px;
+     	height:200px;
+     	color: white;
+     	 margin-left: 500px;}
+     	 .text{
+     	 	border-bottom: 2px solid white;
+     	 	
+     	 	border-radius: 20px;
+     	 	padding-left: 45%;
+     	 	padding-top: 40px;
+
+     	 }
+
+     	
